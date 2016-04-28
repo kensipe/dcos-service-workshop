@@ -31,38 +31,43 @@ Abbreviated setup (if you have the prerequisites)
 1. Tour and Understanding Mesos and DCOS
 
   Lesson Objectives
-  a. Multi-level scheduler (Mesos/Agents/Framework)
-  b. DCOS Eco-system (Exhibitor/Mesos-DNS/Admin Router/Docker/Cosmos/Universe)
-  c. Marathon
-  d. Reasons to build a new Framework
-  e. Debugging in a Mesos environment
+  1. Multi-level scheduler (Mesos/Agents/Framework)
+  1. DCOS Eco-system (Exhibitor/Mesos-DNS/Admin Router/Docker/Cosmos/Universe)
+  1. Marathon
+  1. Reasons to build a new Framework
+  1. Debugging in a Mesos environment
 
   Lab: Setup DCOS environment (cloud or dcos-vagrant)
-  a. Deploy service via Marathon
-  b. Deploy a service
-  c. Create your own universe
+  
+  1. Deploy service via Marathon
+  1. Deploy a service
+  1. Create your own universe
 
 2. Taxonomy of a Framework / Service
-  a. Schedulers
-  b. Executors
-  c. mesos.proto
-  d. Offers / Tasks
+
+  1. Schedulers
+  1. Executors
+  1. mesos.proto
+  1. Offers / Tasks
 
 3. State and Coordination
-  a. Coordination
-  b. State
-  e. DNS
+
+  1. Coordination
+  1. State
+  1. DNS
 
 4. Universe and Packaging
-  a. Your own Universe
-  b. Packaging
-  c. Admin Router and Web access
+
+  1. Your own Universe
+  1. Packaging
+  1. Admin Router and Web access
 
 6. Adding a CLI
 
 7. Advanced Services
-  a. Reservations
-  b. Persistent Volumes
+
+  1. Reservations
+  1. Persistent Volumes
 
 Topics to add:
   roles
